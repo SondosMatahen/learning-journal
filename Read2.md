@@ -23,12 +23,13 @@ You are able to enter commands by typing them on the keyboard (on the command ed
     Note that we you can use Absolute and Relative Paths. <br/>
    <br/>
    <br/>
-  ### About Files:
-  every thing is file.(Even directories)
-  Linux is an extensionless system ( Linux actually ignores the extension and looks inside the file to determine what type of file it is)
-  Linux is Case Sensitive.(Beware of silly typos.)
-  
- ####common extensions:
+ ### About Files :
+ *every thing is file.(Even directories)
+  *Linux is an extensionless system ( Linux actually ignores the extension and looks inside the file to determine what type of file it is)
+  * Linux is Case Sensitive.(Beware of silly typos.)
+  <br/<
+  <br/>
+ #### Common extensions:
  file.exe: an executable file, or program.
  file.txt : a plain text file.
  file.png :file.gif, file.jpg - an image.
