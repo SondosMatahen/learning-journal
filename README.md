@@ -19,8 +19,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  <br/>
  <br/>
  
-## Happiness depends on your mindset and attitude.
- Roy T. Bennett
+##  <font color="green"> Happiness depends on your mindset and attitude.
+ Roy T. Bennett </font>
  <br/>
  <br/>
  
@@ -30,7 +30,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  
  Know more about [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
  <br/>
- <font color="green"> Some green text </font>
+
  
 
 
