@@ -6,3 +6,7 @@
 4. then you can weite what you want.
 
 ** Don't forget to Commit Changes for what you do**
+
+<br/>
+<br/>
+Know more about [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
