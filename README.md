@@ -12,11 +12,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  * _It's never too late to learn._
  
  <br/>
-Notes:
+### Notes:
  * NOTHING IS **IMPOSSIBLE**
  * TO SUCCEED, YOU MUST FIRST BEGIN.
  <br/>
-Happiness depends on your mindset and attitude.
+## Happiness depends on your mindset and attitude.
  Roy T. Bennett
  <br/>
  <br/>
