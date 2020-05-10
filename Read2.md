@@ -10,7 +10,7 @@ You are able to enter commands by typing them on the keyboard (on the command ed
  2. if on Linux then you will probably find it in Applications -> System or Applications -> Utilities. <br/>
  3. If you are on Windowsn you can use Linux Terminal. <br/>
  
-##### We note that there's something defines as Shell which mean how the terminal will behave and looks after running (most common one is bash , you can use echo command to check which system you use). <br/>
+#####  We note that there's something defines as Shell which mean how the terminal will behave and looks after running (most common one is bash , you can use echo command to check which system you use). <br/>
   <br/>
   <br/>
 ### Cheating Sheet:
