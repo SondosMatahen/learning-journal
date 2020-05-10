@@ -29,7 +29,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  <br/>
  
  Know more about [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
- 
+ <br/>
+ <font color="green"> Some green text </font>
  
 
 
