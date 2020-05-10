@@ -1,5 +1,5 @@
 # Welcome to GitHub learning-journal
-***Sondos***
+***By Sondos***
 
 ## Growth Mindset
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
@@ -14,7 +14,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  <br/>
  ### **Notes:**
  * NOTHING IS **IMPOSSIBLE**
-* TO SUCCEED, YOU MUST FIRST BEGIN.
+ * TO SUCCEED, YOU MUST FIRST BEGIN.
+ <br/>
+ <br/>
+ [Make New Page](https://sondosmatahen.github.io/learning-journal/makenewpage)
+ [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
  
  
 
