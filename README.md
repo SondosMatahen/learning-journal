@@ -5,6 +5,7 @@
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 ![image](https://blog.storeya.com/wp-content/uploads/2015/12/Growth-v-Fixed.jpg)
+<br/>
 
  ### Three reminders to myself of how to keep myself in a growth mindset:
  * _Don't give up unitl success._
