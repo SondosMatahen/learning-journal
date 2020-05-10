@@ -16,6 +16,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  * NOTHING IS **IMPOSSIBLE**
  * TO SUCCEED, YOU MUST FIRST BEGIN.
  <br/>
+ <br/>
+ 
 ## Happiness depends on your mindset and attitude.
  Roy T. Bennett
  <br/>
