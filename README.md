@@ -12,6 +12,9 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  * _It's never too late to learn._
  
  <br/>
+ ### **Notes:**
+ * NOTHING IS **IMPOSSIBLE**
+* TO SUCCEED, YOU MUST FIRST BEGIN.
  
  
 
