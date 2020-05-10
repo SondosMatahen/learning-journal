@@ -34,6 +34,9 @@ You are able to enter commands by typing them on the keyboard (on the command ed
  * file.exe: an executable file, or program.
  * file.txt : a plain text file.
  * file.png :file.gif, file.jpg - an image.
-   
+ <br/>
+ <br/>
+ 
+  Go back to [Home](https://sondosmatahen.github.io/learning-journal/) 
  
 
