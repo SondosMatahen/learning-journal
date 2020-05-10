@@ -10,3 +10,4 @@
 <br/>
 <br/>
 Know more about [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
+Go back to [Home](https://sondosmatahen.github.io/learning-journal/)
