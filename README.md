@@ -17,7 +17,10 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  * TO SUCCEED, YOU MUST FIRST BEGIN.
  <br/>
  <br/>
- [Make New Page](https://sondosmatahen.github.io/learning-journal/makenewpage)
+ You can make new page from here
+ [Make New Page](https://sondosmatahen.github.io/learning-journal/makenewpage) 
+ <br/>
+ 
  [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
  
  
