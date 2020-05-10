@@ -6,7 +6,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 ![image](https://blog.storeya.com/wp-content/uploads/2015/12/Growth-v-Fixed.jpg)
 
- ### 3 reminders to myself of how to keep myself in a growth mindset:
+ ### Three reminders to myself of how to keep myself in a growth mindset:
  * _Don't give up unitl success._
  * _View challenges as opportunities._
  * _It's never too late to learn._
