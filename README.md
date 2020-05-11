@@ -13,13 +13,6 @@
 This is the introduction<a name="introduction"></a>
 **My name is Sondos Matahen , I am from Jordan , I graduated From JUST ,Civil engineering department.
 
- You can make new page from here
- [Make New Page](https://sondosmatahen.github.io/learning-journal/makenewpage) 
- <br/>
- 
- Know more about [Terminal](https://sondosmatahen.github.io/learning-journal/Read2)
- <br/>
-
  
 
 
