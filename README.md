@@ -9,6 +9,7 @@
     2. [Qoutes](#subparagraph2)
 3. [Linkes](#paragraph2)
 
+## Growth of minset  [](#){Growth of minset=introduction}
 ## <font color="gold"> Growth Mindset </font>
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
