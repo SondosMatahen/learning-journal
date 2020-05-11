@@ -7,8 +7,8 @@
 2. [Growth of mindset](#introduction1)
     1. [Notes](#subparagraph1)
     2. [Qoutes](#subparagraph2)
-3. [Read2](#paragraph1)
-4. [Read3](#paragraph2)
+3. [Read2](https://sondosmatahen.github.io/learning-journal/Read2)
+4. [Read3](https://sondosmatahen.github.io/learning-journal/makenewpage)
 <br/>
 <br/>
 This is the introduction<a name="introduction"></a> 
