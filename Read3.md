@@ -1,8 +1,8 @@
-#It's about Git
+# It's about Git
 <br/>
 **use terminal to make changes in git
 <br/>
-###such commands:
+### such commands:
 * git add : to save changes 
 * git commit : to make commit or rminder why we make changes
 * git clone : to join git with github
