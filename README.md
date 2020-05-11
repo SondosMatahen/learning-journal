@@ -1,5 +1,6 @@
 # Welcome to GitHub learning-journal
 ***By Sondos***
+**My name is Sondos Matahen ,I am from Jordan ,I graduated From JUST ,Civil engineering department.
 
 ## <font color="gold"> Growth Mindset </font>
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
