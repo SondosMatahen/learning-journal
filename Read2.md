@@ -1,4 +1,5 @@
 # Terminal <br/>
+<a name="paragraph1"></a> 
 ## This page about who to use terminal.
 A command line, or terminal, is a text based interface to the system. 
 You are able to enter commands by typing them on the keyboard (on the command editor)and it'll show up on creeen as text. <br/>
