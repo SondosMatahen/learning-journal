@@ -1,6 +1,6 @@
 # It's about Git
 <br/>
-**use terminal to make changes in git
+**use terminal to make changes in git**
 <br/>
 ### such commands:
 * git add : to save changes. 
