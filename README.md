@@ -4,7 +4,7 @@
 <br/>
  ## Table of contents
 1. [intro](#introduction)
-2. [Growth of mindset](https://sondosmatahen.github.io/learning-journal/Growth)
+2. [Growth of mindset](Growth.md)
     1. [Notes](#subparagraph1)
     2. [Qoutes](#subparagraph2)
 3. [Read2](https://sondosmatahen.github.io/learning-journal/Read2)
