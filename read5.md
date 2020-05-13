@@ -14,7 +14,14 @@ Color not only brings your site to life, but also helps  X convey the mood and e
   * BLUE 
 * hex codes : with color number. 
 * HLSA:
+<<<<<<< HEAD
 
+=======
+  * Hue 
+  * Saturation 
+  * Lightness 
+   * ALPHA
+>>>>>>> b40cd3e355e87c82ab80d21c9fbf27c24f617be2
 * color names
  
 <br/>
