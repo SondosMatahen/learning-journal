@@ -12,3 +12,6 @@ everyone of us nowdays have pc , so it's important to know how it's work
 * Software ,the things we can't see such as: Apps, games,creative , map...
 * CPU: controls all the other parts of computer.
 * operating system: is the master that manges how software uses the hardware of a computer.
+
+
+![img](https://d3tl80hy6t5toy.cloudfront.net/wp-content/uploads/sites/4/2012/08/06051945/input-output-model-example.jpg)
